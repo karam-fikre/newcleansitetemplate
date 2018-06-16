@@ -22,7 +22,8 @@ body {
 .display-1 {
   font-family: 'Rubik', sans-serif;
   font-size: 2.25rem;
-  color:black;
+  color:#f2f2f2;
+   background-color: #333c;
 }
 .display-1 > .mbr-iconfont {
   font-size: 6.8rem;
@@ -42,9 +43,10 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Rubik', RockWell;
   font-size: 1.5rem;
-  color:black;
+  color:#f2f2f2;
+   background-color: #3336;
 }
 .display-5 > .mbr-iconfont {
   font-size: 2.4rem;
@@ -2000,7 +2002,31 @@ body {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/adult-cleaning-flora-713297.jpg");
 }
-
+.cid-qV4WCsNPxB1 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/apartment-architecture-contemporary-276641.jpg");
+}
+.cid-qV4WCsNPxB2 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/beautiful-beauty-blond-761999.jpg");
+}
+.cid-qV4WCsNPxB3 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/clean-cleaning-mop-48889.jpg");
+}
+.cid-qV4WCsNPxB4 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/business-chairs-contemporary-416320.jpg");
+}
+.cid-qV4WCsNPxB5 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/cleaning-background-10.jpg");
+}
 .cid-qV4WCEa0kC {
   background-image: url("../../../assets/images/bloom-blossom-cleaning-434163.jpg");
 }

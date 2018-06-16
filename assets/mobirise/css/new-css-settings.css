@@ -18,3 +18,12 @@
 {
     color:#ff9800;
 }
+.list-group-item.active {
+    background-color: #33335B;
+     border: none;
+}
+
+.list-group-item.disabled, .list-group-item:disabled {
+	color:white;
+    background-color: #3336;
+}
