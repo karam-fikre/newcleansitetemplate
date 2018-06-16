@@ -31,12 +31,18 @@ margin-left: -100px;
     margin-right: 46.5%;
 }
 
-.btn
-{
+.btn {
     padding:0;
 }
 
 .text
 {
     margin-left:10px;
+    padding-top: 10px;
+}
+
+button.close
+{
+    padding:3px;
+    color:#8e7f7f;
 }
