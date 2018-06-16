@@ -1,0 +1,20 @@
+﻿.popover-content
+{
+    background-color:#3336;
+    color: orange;
+    font-size: 15px;
+    font-family: 'Helvetica',sans-serif;
+    left: -75px;
+    position: absolute;
+    width: 150px;
+    z-index: 4;
+}
+.cid-qTkzRZLJNu .dropdown .dropdown-menu
+{
+    background-color:#3336;
+}
+
+.cid-qTkAaeaxX5 .footer-lower .social-list .mbr-iconfont-social, a, a:hover
+{
+    color:#ff9800;
+}
