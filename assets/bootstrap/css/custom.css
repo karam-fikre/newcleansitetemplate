@@ -28,7 +28,7 @@ margin-left: -100px;
 
 .btn:not(:disabled):not(.disabled)
 {
-    margin-right: 46.5%;
+    margin-right: 46%;
 }
 
 .btn {
@@ -45,4 +45,12 @@ button.close
 {
     padding:3px;
     color:#8e7f7f;
+}
+
+.footer-logo
+{
+    padding-top: 12px;
+    padding-bottom: 2px;
+    max-height: 70px;
+    max-width: 80%;
 }
