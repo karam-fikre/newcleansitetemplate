@@ -1,0 +1,305 @@
+  <!-- Pris Lista-->
+				<!--	<div class="justify-content-md-left list-group mbr-white align-center col-md-4">
+                    <h1 class=" list-group-item list-group-item-action active mbr-section-title  mbr-bold pb-3 mbr-fonts-style display-10">
+                        KVADRATMETER
+                    </h1>
+
+                    <p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						Max 30 m2
+                    </p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						Max 40 m2
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						Max 50 m2
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						Max 60 m2
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						Max 70 m2
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						Max 80 m2
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						Max 90 m2
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						Max 100 m2
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						Max 110 m2
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						Max 120 m2
+					</p>
+                </div>
+				<div class="justify-content-md-center list-group mbr-white align-center col-md-3">
+                    <h1 class=" list-group-item list-group-item-action active mbr-section-title  mbr-bold pb-3 mbr-fonts-style display-10">
+                        PRISLISTA
+                    </h1>
+
+                    <p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						575:-
+                    </p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						900:-
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						1.190:-
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						1.290:-
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						1.499:-
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						1.599:-
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						1.699:-
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						1.799:-
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						1.899:-
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						1.999:-
+					</p>
+                </div>
+				<div class="justify-content-md-right list-group mbr-white align-center col-md-3">
+                    <h1 class=" list-group-item list-group-item-action active mbr-section-title  mbr-bold pb-3 mbr-fonts-style display-10">
+                        FÖRBOKING
+                    </h1>
+
+                    <p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						500:-
+                    </p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						799:-
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						1.099:-
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						1.199:-
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						1.399:-
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						1.499:-
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						1.599:-
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						1.699:-
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						1.799:-
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						1.899:-
+					</p>
+                </div>
+                <div class=" list-group mbr-white align-center col-md-6">
+                    <p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-5">
+                       Hushållsmaskiner: 245 
+                    </p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-5">
+                    Inglasad balkong: 299
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-5">
+					Förråd: 249 :-
+					</p>
+                    <p class="mbr-text align-center pb-3 mbr-fonts-style display-5">
+                    Priser är inkl moms och efter Rut - avadrag
+</p>
+                </div> -->
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+   <!-- Pris Lista-->
+
+                <!--
+				<div class="justify-content-md-left list-group mbr-white align-center col-md-4">
+                    <h1 class=" list-group-item list-group-item-action active mbr-section-title  mbr-bold pb-3 mbr-fonts-style display-10">
+                        KVADRATMETER
+                    </h1>
+
+                    <p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						Max 30 m2
+                    </p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						Max 40 m2
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						Max 50 m2
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						Max 60 m2
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						Max 70 m2
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						Max 80 m2
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						Max 90 m2
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						Max 100 m2
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						Max 110 m2
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						Max 120 m2
+					</p>
+                </div>
+				<div class="justify-content-md-center list-group mbr-white align-center col-md-3">
+                    <h1 class=" list-group-item list-group-item-action active mbr-section-title  mbr-bold pb-3 mbr-fonts-style display-10">
+                        PRISLISTA
+                    </h1>
+
+                    <p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						3.499:-
+                    </p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						3.999:-
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						4.499:-
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						4.999:-
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						5.599:-
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						5.999:-
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						6.599:-
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						7.099:-
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						7.599:-
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						8.199:-
+					</p>
+                </div>
+				<div class="justify-content-md-right list-group mbr-white align-center col-md-3">
+                    <h1 class=" list-group-item list-group-item-action active mbr-section-title  mbr-bold pb-3 mbr-fonts-style display-10">
+                        FÖRBOKING
+                    </h1>
+
+                    <p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						3.299:-
+                    </p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						3.799:-
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						4.299:-
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						4.799:-
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						5.499:-
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						5.799:-
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						6.399:-
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						6.899:-
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						7.399:-
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-50">
+						7.499:-
+					</p>
+                </div>
+            
+            
+            
+            <div class=" list-group mbr-white align-center col-md-6">
+                    <p class="mbr-text align-center pb-3 mbr-fonts-style display-5">
+                    Priser är inkl moms
+</p>
+                </div> -->
+       
+       
+
+
+
+
+
+
+                <!-- Priser -->
+			<!--	<div class=" list-group mbr-white align-center col-md-6">
+                    <p class="mbr-text align-center pb-3 mbr-fonts-style display-5">
+                    140 kr/ timme <br />
+                    Priser är inkl moms
+</p>
+                </div> -->
+
+
+
+
+   <!-- Pris Lista-->
+
+			<!--	<div class=" list-group mbr-white align-center col-md-6">
+                    <h1 class=" list-group-item list-group-item-action active mbr-section-title  mbr-bold pb-3 mbr-fonts-style display-1">
+                        PRISLISTA
+                    </h1>
+
+                    <p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-5">
+                       1–3 rok: 400 kr
+                    </p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-5">
+                    4 rok: 500 kr
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-5">
+					5 rok: 600 kr
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-5">
+					6 rok: 700 kr
+					</p>
+					<p class="list-group-item list-group-item-action disabled mbr-text pb-3 mbr-fonts-style display-5">
+					7 rok: 800 kr
+					</p>
+                    <p class="mbr-text align-center pb-3 mbr-fonts-style display-5">
+                    Priser är inkl moms och efter Rut - avadrag
+</p>
+                </div>
+
+            -->
+           
+        
